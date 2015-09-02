@@ -19,6 +19,8 @@
 */
 
 #include <iostream>
+#include <thread>
+#include <condition_variable>
 
 #include "redox.hpp"
 #include "gtest/gtest.h"
